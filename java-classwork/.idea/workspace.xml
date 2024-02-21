@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7b0fbcc-e6c5-49fa-a5e2-1676844e4019" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cZSvv2MPs7HoqV8S5OmgCBxWPl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CollectionDemo.executor": "Run",
+    "Application.CustomExceptionRunner.executor": "Run",
+    "Application.EmpRunner.executor": "Run",
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.ExceptionTest.executor": "Run",
+    "Application.FileInputDemo.executor": "Run",
+    "Application.FileOutputDemo.executor": "Run",
+    "Application.LamdaDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapDemo.executor": "Run",
+    "Application.PropertyReader.executor": "Run",
+    "Application.Register.executor": "Run",
+    "Application.SerializeTester.executor": "Run",
+    "Application.StreamDemo.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.Tester2.executor": "Run",
+    "Application.ThreadTester.executor": "Run",
+    "Application.TimThreadTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/akktimot/Desktop/JAVA/java-classwork"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b0fbcc-e6c5-49fa-a5e2-1676844e4019" name="Changes" comment="" />
+      <created>1708317843787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708317843787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/day2/threaddemo/HomeAssignment/TimThreadTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
